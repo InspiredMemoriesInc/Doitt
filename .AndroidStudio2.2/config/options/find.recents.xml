@@ -1,0 +1,7 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>appbar_scrolling_view_behavior</find>
+    </findStrings>
+  </component>
+</application>
